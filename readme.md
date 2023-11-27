@@ -14,7 +14,7 @@
 5. [FAQs](#faqs)
 ### General Info
 ***
-El objetivo de este proyecto es  Aplicar técnicas de Optimización de modelos a través de hiperparámetros y entender  como usar diversas estrategias de optimización para seleccionar los valores óptimos de los parámetros de entrenamiento y prueba del modelo de arbol para que genere la salida mejor ajustada a la realidad a partir del conjunto de datos usado.
+El objetivo de este proyecto es aplicar técnicas de Optimización de modelos a través de hiper-parámetros y entender como usar diversas estrategias de optimización para seleccionar los valores óptimos de los parámetros de entrenamiento y prueba del modelo de arbol de decisión para que genere la salida mejor ajustada a la realidad a partir del conjunto de datos de ventas de vehículos..
 
 <b>Objetivos:</b> 
 - Entender que son los hiperparámetros y los espacios de parámetros
